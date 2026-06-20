@@ -1,2 +1,14 @@
 # maiqiugamesplus-notes
-HTML page archive and documentation
+
+静态页面归档仓库
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
